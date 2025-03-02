@@ -6,3 +6,6 @@
 
 ## TDP Template
 - [Template file](./documents/tdpTemplate/TDPTemplate.pdf)
+
+## Arena map
+![arena-map](./maps/map.jpg)
