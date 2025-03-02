@@ -11,6 +11,9 @@
 ## TDP Template
 - [Template file](./documents/tdpTemplate/TDPTemplate.pdf)
 
+## Important date
+- TDP submission date : <i><b>7 March 2025</b></i>
+
 ## Qualify Materials Example
 - [Explaination](./documents/rules/score-and-tdp-explaination.pdf)
 - [Video Example](https://www.youtube.com/watch?v=FUKtgivErqE)
