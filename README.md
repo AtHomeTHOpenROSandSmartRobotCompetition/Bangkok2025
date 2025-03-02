@@ -7,5 +7,9 @@
 ## TDP Template
 - [Template file](./documents/tdpTemplate/TDPTemplate.pdf)
 
+## Example
+- [Video Example](https://www.youtube.com/watch?v=FUKtgivErqE)
+- [TDP Example](./documents/tdpTemplate/Kamenrider-TDP-example.pdf)
+
 ## Arena map
 ![arena-map](./maps/map.jpg)
