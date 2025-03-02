@@ -2,11 +2,11 @@
 
 ## Rules
 ### Open Platform League
+- [Thailand Open Platform 2025 Rules](./documents/rules/OPLTH-Rule2025.pdf)
 - [Rules reference](https://github.com/RoboCupAtHome/RuleBook/releases/download/2024.2/rulebook.pdf)
-- [Thailand Open Platform 2025](./documents/rules/OPLTH-Rule2025.pdf)
 
 ### Education League
-- [Thailand Education 2025](./documents/rules/EDUTH-Rule2025.pdf)
+- [Thailand Education 2025 Rules](./documents/rules/EDUTH-Rule2025.pdf)
 
 ## TDP Template
 - [Template file](./documents/tdpTemplate/TDPTemplate.pdf)
