@@ -14,6 +14,9 @@
 ## Important date
 - TDP submission date : <i><b>7 March 2025</b></i>
 
+## Submission form
+- [TDP and Video submission form](https://forms.gle/Nyh2DDhBZKAh4fqN9)
+
 ## Qualify Materials Example
 - [Explaination](./documents/rules/score-and-tdp-explaination.pdf)
 - [Video Example](https://www.youtube.com/watch?v=FUKtgivErqE)
