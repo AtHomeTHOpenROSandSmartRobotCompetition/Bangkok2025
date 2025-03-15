@@ -5,8 +5,11 @@
 - [Thailand Open Platform 2025 Rules](./documents/rules/OPLTH-Rule2025.pdf)
 - [Rules reference](https://github.com/RoboCupAtHome/RuleBook/releases/download/2024.2/rulebook.pdf)
 
-### Education League
+### Education League- []-
 - [Thailand Education 2025 Rules](./documents/rules/EDUTH-Rule2025.pdf)
+
+## Qualified team
+- [Qualified team](https://github.com/AtHomeTHOpenROSandSmartRobotCompetition/Bangkok2025/blob/main/qualified_team.md)
 
 ## TDP Template
 - [Template file](./documents/tdpTemplate/TDPTemplate.pdf)
