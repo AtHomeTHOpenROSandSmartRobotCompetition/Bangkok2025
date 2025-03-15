@@ -9,7 +9,7 @@
 - [Thailand Education 2025 Rules](./documents/rules/EDUTH-Rule2025.pdf)
 
 ## Qualified team
-- [Qualified team](https://github.com/AtHomeTHOpenROSandSmartRobotCompetition/Bangkok2025/blob/main/qualified_team.md)
+- [Qualified team](./documents/qualified_team.md)
 
 ## TDP Template
 - [Template file](./documents/tdpTemplate/TDPTemplate.pdf)
