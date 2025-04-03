@@ -12,7 +12,7 @@
 | Name                    | Institution(s)                      |
 |-------------------------|-------------------------------------|
 | Sa du no     ✅          | Saint Gabriel College                |
-| BANGPAE KANCHANG (บังเเป๊ะการช่าง) ❌ | โรงเรียนลาซาลกรุงเทพ            |
+| BANGPAE KANCHANG (บังเเป๊ะการช่าง) ✅ | โรงเรียนลาซาลกรุงเทพ            |
 | hommie       ✅         | Sakolrajwittayanakul School           |
 | Return to monkey   ✅   | Saipanyarangsit School                |
 | Banana      ✅          | King’s College International School Bangkok, Singapore International School Thonburi, King Mongkut's International Demonstration School |
