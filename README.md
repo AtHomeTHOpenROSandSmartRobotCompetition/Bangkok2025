@@ -6,7 +6,7 @@
 - [Qualified](#qualifying-material)
 - [Area map](#arena-map)
 - [Timetable](#timetable)
-- [Score](#score)
+- [Score](./documents/score.md)
 
 ## Rules
 ### Open Platform League
@@ -163,15 +163,3 @@
 | 14:15  | isolate         | Cleaner        | Banana         | Return to monkey |
 | 14:30  | Cleaner         | Banana         | hommie         | Aokkai Everyday |
 | 14:45  | Banana          | Sa du no       | Return to monkey | บังแป๋ะการช่าง  |
-
-# Score
-| Team name         | CML (Trial 1) | CML (Trial 2) | CML (Trial 3) | Best of 3 |
-|-------------------|---------------|---------------|---------------|------|
-| hommie            | -             | -             |               | 0    |
-| บังแป๋ะการช่าง     | -             | -             |               | 0    |
-| Aokkai Everyday   | -             | 65            |               | 65   |
-| isolate           | 100           | 0             |               | 100  |
-| Cleaner           | 0             | 0             |               | 0    |
-| Banana            | 170           | 265           |               | 265  |
-| Return to monkey  | 0             | 0             |               | 0    |
-| Sa du no          | -             | -             |               | 0    |
