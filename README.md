@@ -30,6 +30,7 @@
 
 ## Arena map
 ![arena-map](./maps/map.jpg)
+### 2 room map file (Bedroom & Study room)
 - [map-athome.pgm](./maps/map-athome.pgm)
 - [map-athome.yaml](./maps/map-athome.yaml)
 
