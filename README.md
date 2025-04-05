@@ -42,6 +42,7 @@
 - [map-athome-3room.pgm](./maps/map-athome-3room.pgm)
 - [map-athome-3room.yaml](./maps/map-athome-3room.yaml) \
     <i>\** Please change map path on YAML file before using.</i>
+![3room-map](./images/map-athome-3room.png)
 
 # Timetable
 - [Sat 5 April 2025](#sat-5-april-2025)
