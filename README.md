@@ -1,6 +1,6 @@
 # Thailand Open ROS and Smart Robot Competition 2025
 
-# Table of content
+## Table of content
 - [Rules](#rules)
 - [Important Date](#important-date)
 - [Qualified](#qualifying-material)
