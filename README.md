@@ -21,6 +21,8 @@
 
 ## Arena map
 ![arena-map](./maps/map.jpg)
+- [map-athome.pgm](./maps/map-athome.pgm)
+- [map-athome.yaml](./maps/map-athome.yaml)
 
 # Timetable
 - [Sat 5 April 2025](#sat-5-april-2025)
