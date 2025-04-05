@@ -40,30 +40,32 @@
 | 13:00 | Return to monkey  |
 | 13:30 | บังแป๋ะการช่าง     |
 | 14:00 | hommie            |
+| 14:30 | Cleaner          |
+| 15:00 | Aokkai Everyday  |
 
 ### Carry My Luggage (Trial 1) : Prepare 3 Min. Test 7 Min.
-| Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
-|-------|-----------------|-----------------|----------------|-----------------|
-| 14:30 | Sa du no        | isolate        | Banana         | hommie         |
-| 14:40 | isolate         | Banana         | hommie         | Aokkai Everyday |
-| 14:50 | Banana          | hommie         | Aokkai Everyday | บังแป๋ะการช่าง  |
-| 15:00 | hommie          | Aokkai Everyday | บังแป๋ะการช่าง  | Cleaner         |
-| 15:10 | Aokkai Everyday | บังแป๋ะการช่าง  | Cleaner        | Return to monkey |
-| 15:20 | บังแป๋ะการช่าง  | Cleaner        | Return to monkey | Sa du no        |
-| 15:30 | Cleaner         | Return to monkey | Sa du no       | isolate         |
-| 15:40 | Return to monkey | Sa du no       | isolate        | Banana         |
+| Time  | Team name         | Referee 1          | Referee 2        | Volunteer           |
+|-------|-------------------|--------------------|------------------|----------------------|
+| 15:00 | Sa du no          | isolate            | Banana           | hommie              |
+| 15:10 | isolate           | Banana             | hommie           | Aokkai Everyday     |
+| 15:20 | Banana            | hommie             | Aokkai Everyday  | บังแป๋ะการช่าง       |
+| 15:30 | hommie            | Aokkai Everyday    | บังแป๋ะการช่าง     | Cleaner             |
+| 15:40 | Aokkai Everyday   | บังแป๋ะการช่าง     | Cleaner          | Return to monkey    |
+| 15:50 | บังแป๋ะการช่าง     | Cleaner            | Return to monkey | Sa du no            |
+| 16:00 | Cleaner           | Return to monkey   | Sa du no         | isolate             |
+| 16:10 | Return to monkey | Sa du no           | isolate          | Banana              |
 
 ### Carry My Luggage (Trial 2) : Prepare 3 Min. Test 7 Min.
-| Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
-|-------|-----------------|-----------------|----------------|-----------------|
-| 15:50 | hommie          | บังแป๋ะการช่าง  | Aokkai Everyday | isolate         |
-| 16:00 | บังแป๋ะการช่าง  | Aokkai Everyday | isolate        | Cleaner         |
-| 16:10 | Aokkai Everyday | isolate        | Cleaner        | Banana         |
-| 16:20 | isolate         | Cleaner        | Banana         | Return to monkey |
-| 16:30 | Cleaner         | Banana         | Return to monkey | Sa du no        |
-| 16:40 | Banana          | Return to monkey | Sa du no       | hommie         |
-| 16:50 | Return to monkey | Sa du no       | hommie         | บังแป๋ะการช่าง  |
-| 17:00 | Sa du no        | hommie         | บังแป๋ะการช่าง  | Aokkai Everyday |
+| Time  | Team name         | Referee 1          | Referee 2        | Volunteer           |
+|-------|-------------------|--------------------|------------------|----------------------|
+| 16:20 | hommie            | บังแป๋ะการช่าง     | Aokkai Everyday  | isolate             |
+| 16:30 | บังแป๋ะการช่าง     | Aokkai Everyday    | isolate          | Cleaner             |
+| 16:40 | Aokkai Everyday   | isolate            | Cleaner          | Banana              |
+| 16:50 | isolate           | Cleaner            | Banana           | Return to monkey    |
+| 17:00 | Cleaner           | Banana             | Return to monkey | Sa du no            |
+| 17:10 | Banana            | Return to monkey   | Sa du no         | hommie              |
+| 17:20 | Return to monkey | Sa du no           | hommie           | บังแป๋ะการช่าง       |
+| 17:30 | Sa du no          | hommie             | บังแป๋ะการช่าง     | Aokkai Everyday     |
 
 ## Sun 6 April 2025
 ### Find My Mates (Trial 1) : Prepare 5 Min. Test 7 Min.
