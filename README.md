@@ -33,12 +33,13 @@
 |-----------|------------------|
 | 10:00 | Cleaner          |
 | 10:30 | Aokkai Everyday  |
-| 11:00 | Sa du no        |
-| 11:30 | isolate         |
-| 12:00 | Banana          |
-| 12:30 | Return to monkey |
-| 13:00 | บังแป๋ะการช่าง    |
-| 13:30 | hommie          |
+| ---   | Break to fix area  |
+| 11:30 | Sa du no          |
+| 12:00 | isolate           |
+| 12:30 | Banana            |
+| 13:00 | Return to monkey  |
+| 13:30 | บังแป๋ะการช่าง     |
+| 14:00 | hommie            |
 
 ### Carry My Luggage (Trial 1) : Prepare 3 Min. Test 7 Min.
 | Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
