@@ -69,6 +69,19 @@
 | 17:00 | Return to monkey | Sa du no           | hommie           | บังแป๋ะการช่าง       |
 | 17:10 | Sa du no          | hommie             | บังแป๋ะการช่าง     | Aokkai Everyday     |
 
+### Test slot
+| Time  | Team name         |
+|-------|-------------------|
+| 17:00 | hommie            |
+| 17:10 | บังแป๋ะการช่าง     |
+| 17:20 | Aokkai Everyday   |
+| 17:30 | isolate           |
+| 17:40 | Cleaner           |
+| 17:50 | Banana            |
+| 18:00 | Return to monkey  |
+| 18:10 | Sa du no          |
+
+
 ## Sun 6 April 2025
 ### Find My Mates (Trial 1) : Prepare 5 Min. Test 7 Min.
 | Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
