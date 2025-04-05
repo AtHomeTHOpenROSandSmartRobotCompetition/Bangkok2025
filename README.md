@@ -5,6 +5,7 @@
 - [Important Date](#important-date)
 - [Qualified](#qualifying-material)
 - [Area map](#arena-map)
+- [Map file](#map-file)
 - [Timetable](#timetable)
 - [Score](./documents/score.md)
 - [Names](./documents/names.md)
@@ -30,9 +31,17 @@
 
 ## Arena map
 ![arena-map](./maps/map.jpg)
+
+## Map file
 ### 2 room map file (Bedroom & Study room)
 - [map-athome.pgm](./maps/map-athome.pgm)
-- [map-athome.yaml](./maps/map-athome.yaml)
+- [map-athome.yaml](./maps/map-athome.yaml) \
+    <i>\** Please change map path on YAML file before using.</i>
+
+### 3 rooms map file (Bedroom & Study room & Living room)
+- [map-athome-3room.pgm](./maps/map-athome-3room.pgm)
+- [map-athome-3room.yaml](./maps/map-athome-3room.yaml) \
+    <i>\** Please change map path on YAML file before using.</i>
 
 # Timetable
 - [Sat 5 April 2025](#sat-5-april-2025)
