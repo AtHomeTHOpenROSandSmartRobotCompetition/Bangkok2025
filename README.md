@@ -165,7 +165,7 @@
 | 14:45  | Banana          | Sa du no       | Return to monkey | บังแป๋ะการช่าง  |
 
 # Score
-| Team name         | CML (Trial 1) | CML (Trial 2) | CML (Trial 3) | Best |
+| Team name         | CML (Trial 1) | CML (Trial 2) | CML (Trial 3) | Best of 3 |
 |-------------------|---------------|---------------|---------------|------|
 | hommie            | -             | -             |               | 0    |
 | บังแป๋ะการช่าง     | -             | -             |               | 0    |
