@@ -7,6 +7,7 @@
 - [Area map](#arena-map)
 - [Timetable](#timetable)
 - [Score](./documents/score.md)
+- [Names](./documents/names.md)
 
 ## Rules
 ### Open Platform League
