@@ -132,7 +132,7 @@
 |-------|-----------------|-----------------|----------------|-----------------|
 | 13:00 | Cleaner         | Banana         | Return to monkey | Sa du no        |
 | 13:12 | Banana          | Return to monkey | Sa du no       | hommie         |
-| 13:24 | Return to monkey | Sa du no       | hommie         | บังแป๋ะการช่าง  |
+| 13:24 | <s>Return to monkey</s> | Sa du no       | hommie         | บังแป๋ะการช่าง  |
 | 13:36 | Sa du no        | hommie         | บังแป๋ะการช่าง  | Aokkai Everyday |
 | 13:48 | hommie          | บังแป๋ะการช่าง  | Aokkai Everyday | isolate         |
 | 14:00 | บังแป๋ะการช่าง  | Aokkai Everyday | isolate        | Cleaner         |
