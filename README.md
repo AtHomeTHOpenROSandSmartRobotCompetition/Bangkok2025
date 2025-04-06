@@ -9,6 +9,7 @@
 - [Timetable](#timetable)
 - [Score](./documents/score.md)
 - [Names](./documents/names.md)
+- [Drinks](./documents/drinks.md)
 
 ## Rules
 ### Open Platform League
@@ -153,6 +154,7 @@
 
 ## Mon 7 April 2025
 ### Receptionist (Trial 1) : Prepare 3 Min. Test 5 Min.
+<i>Host name : John, Drink : latte</i>
 | Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
 |--------|-----------------|-----------------|----------------|-----------------|
 | 10:00  | Sa du no        | isolate        | Banana         | hommie         |
@@ -165,6 +167,7 @@
 | 10:56  | Return to monkey | Sa du no       | isolate        | Banana         |
 
 ### Receptionist (Trial 2) : Prepare 3 Min. Test 5 Min.
+<i>Host name : John, Drink : latte</i>
 | Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
 |--------|-----------------|-----------------|----------------|-----------------|
 | 11:00  | Cleaner         | Banana         | Return to monkey | Sa du no        |
