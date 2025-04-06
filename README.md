@@ -168,16 +168,17 @@
 
 ### Receptionist (Trial 2) : Prepare 3 Min. Test 5 Min.
 <i>Host name : John, Drink : latte</i>
-| Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
-|--------|-----------------|-----------------|----------------|-----------------|
-| 11:00  | Cleaner         | Banana         | Return to monkey | Sa du no        |
-| 11:08  | Banana          | Return to monkey | Sa du no       | hommie         |
-| 11:16  | Return to monkey | Sa du no       | hommie         | บังแป๋ะการช่าง  |
-| 11:24  | Sa du no        | hommie         | บังแป๋ะการช่าง  | Aokkai Everyday |
-| 11:32  | hommie          | บังแป๋ะการช่าง  | Aokkai Everyday | isolate         |
-| 11:40  | บังแป๋ะการช่าง  | Aokkai Everyday | isolate        | Cleaner         |
-| 11:48  | Aokkai Everyday | isolate        | Cleaner        | Banana         |
-| 11:56  | isolate         | Cleaner        | Banana         | Return to monkey |
+| Time  | Team name          | Referee 1          | Referee 2         | Volunteer          |
+|--------|--------------------|--------------------|--------------------|---------------------|
+| 11:04  | Cleaner            | Banana             | Return to monkey   | Sa du no            |
+| 11:12  | Banana             | Return to monkey   | Sa du no           | hommie              |
+| 11:20  | Return to monkey   | Sa du no           | hommie             | บังแป๋ะการช่าง       |
+| 11:28  | Sa du no           | hommie             | บังแป๋ะการช่าง       | Aokkai Everyday      |
+| 11:36  | hommie             | บังแป๋ะการช่าง       | Aokkai Everyday      | isolate             |
+| 11:44  | บังแป๋ะการช่าง       | Aokkai Everyday      | isolate             | Cleaner             |
+| 11:52  | Aokkai Everyday    | isolate            | Cleaner             | Banana              |
+| 12:00  | isolate            | Cleaner            | Banana              | Return to monkey    |
+
 
 ### Extra Trial 3 for Find My Mates or Receptionist
 | Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
