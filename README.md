@@ -115,6 +115,18 @@
 | 11:12 | Banana          | hommie         | Aokkai Everyday | บังแป๋ะการช่าง  |
 | 11:24 | hommie          | Aokkai Everyday | บังแป๋ะการช่าง  | Cleaner |
 
+### Test slot
+| Time  | Team name         |
+|-------|-------------------|
+| 11:30 | Aokkai Everyday   |
+| 11:40 | Cleaner           |
+| 11:50 | hommie            |
+| 12:00 | Sa du no          |
+| 12:10 | บังแป๋ะการช่าง     |
+| 12:20 | Return to monkey  |
+| 12:30 | isolate           |
+| 12:40 | Banana            |
+
 ### Find My Mates (Trial 2) : Prepare 5 Min. Test 7 Min.
 | Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
 |-------|-----------------|-----------------|----------------|-----------------|
