@@ -95,9 +95,9 @@
 | Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
 |-------|-----------------|-----------------|----------------|-----------------|
 | 10:00 | Aokkai Everyday | บังแป๋ะการช่าง  | Cleaner        | Return to monkey |
-| 10:12 | บังแป๋ะการช่าง  | Cleaner        | Return to monkey | Sa du no        |
+| 10:12 | <s>บังแป๋ะการช่าง</s>  | Cleaner        | Return to monkey | Sa du no        |
 | 10:24 | Cleaner         | Return to monkey | Sa du no       | isolate         |
-| 10:36 | Return to monkey | Sa du no       | isolate        | Banana         |
+| 10:36 | <s>Return to monkey</s> | Sa du no       | isolate        | Banana         |
 | 10:48 | Sa du no        | isolate        | Banana         | hommie         |
 | 11:00 | isolate         | Banana         | hommie         | Aokkai Everyday |
 | 11:12 | Banana          | hommie         | Aokkai Everyday | บังแป๋ะการช่าง  |
