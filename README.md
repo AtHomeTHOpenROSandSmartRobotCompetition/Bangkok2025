@@ -191,3 +191,16 @@
 | 14:15  | isolate         | Cleaner        | Banana         | Return to monkey |
 | 14:30  | Cleaner         | Banana         | hommie         | Aokkai Everyday |
 | 14:45  | Banana          | Sa du no       | Return to monkey | บังแป๋ะการช่าง  |
+
+## Extra Trial 4
+
+| Time  | Team name         | Referee 1          | Referee 2       | Volunteer          |
+|--------|--------------------|--------------------|--------------------|--------------------|
+| 14:15  | Return to monkey   | Banana             | Sa du no           | บังแป๋ะการช่าง       |
+| 14:30  | Banana             | Sa du no           | บังแป๋ะการช่าง       | Aokkai Everyday     |
+| 14:45  | Sa du no           | บังแป๋ะการช่าง       | Aokkai Everyday     | Cleaner             |
+| 15:00  | บังแป๋ะการช่าง       | Aokkai Everyday     | Cleaner             | isolate             |
+| 15:15  | Aokkai Everyday     | Cleaner             | isolate             | hommie              |
+| 15:30  | Cleaner             | isolate             | hommie              | Return to monkey    |
+| 15:45  | isolate             | hommie              | Return to monkey    | Banana              |
+| 16:00  | hommie              | Return to monkey    | Banana              | Sa du no            |
