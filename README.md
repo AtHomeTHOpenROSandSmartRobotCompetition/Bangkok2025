@@ -172,10 +172,10 @@
 |--------|--------------------|--------------------|--------------------|---------------------|
 | 11:04  | Cleaner            | Banana             | Return to monkey   | Sa du no            |
 | 11:12  | Banana             | Return to monkey   | Sa du no           | hommie              |
-| 11:20  | Return to monkey   | Sa du no           | hommie             | บังแป๋ะการช่าง       |
+| 11:20  | <s>Return to monkey</s>   | Sa du no           | hommie             | บังแป๋ะการช่าง       |
 | 11:28  | Sa du no           | hommie             | บังแป๋ะการช่าง       | Aokkai Everyday      |
 | 11:36  | hommie             | บังแป๋ะการช่าง       | Aokkai Everyday      | isolate             |
-| 11:44  | บังแป๋ะการช่าง       | Aokkai Everyday      | isolate             | Cleaner             |
+| 11:44  | <s>บังแป๋ะการช่าง</s>       | Aokkai Everyday      | isolate             | Cleaner             |
 | 11:52  | Aokkai Everyday    | isolate            | Cleaner             | Banana              |
 | 12:00  | isolate            | Cleaner            | Banana              | Return to monkey    |
 
