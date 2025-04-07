@@ -199,7 +199,7 @@
 | 14:15  | Return to monkey   | Banana             | Sa du no           | บังแป๋ะการช่าง       |
 | 14:30  | Banana             | Sa du no           | บังแป๋ะการช่าง       | Aokkai Everyday     |
 | 14:45  | Sa du no           | บังแป๋ะการช่าง       | Aokkai Everyday     | Cleaner             |
-| 15:00  | บังแป๋ะการช่าง       | Aokkai Everyday     | Cleaner             | isolate             |
+| 15:00  | <s>บังแป๋ะการช่าง</s>       | Aokkai Everyday     | Cleaner             | isolate             |
 | 15:15  | Aokkai Everyday     | Cleaner             | isolate             | hommie              |
 | 15:30  | Cleaner             | isolate             | hommie              | Return to monkey    |
 | 15:45  | isolate             | hommie              | Return to monkey    | Banana              |
