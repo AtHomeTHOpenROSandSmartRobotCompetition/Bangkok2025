@@ -14,20 +14,20 @@
 
 ## Rank
 ### University
-| Rank | Team name           | 
-|------|---------------------|
-| 1 |  Cleaner 🥇           | 
-| 2 |  Aokkai Everyday 🥈   | 
+| Rank | Team name           | University Name | 
+|------|---------------------|-----------------|
+| 1 |  Cleaner 🥇           |  Kasetsart University |
+| 2 |  Aokkai Everyday 🥈   |  Khon Kaen University |
 
 ### School
-| Rank | Team name           |
-|------|---------------------|
-| 1 |  Banana 🥇          |
-| 2 |  isolate 🥈         |
-| 3 |  hommie 🥉          |
-| 4 | Return to monkey    |
-| 5 | Sa du no            |
-| 6 | บังแป๋ะการช่าง       
+| Rank | Team name           | School Name |
+|------|---------------------|-------------|
+| 1 |  Banana 🥇          | King’s College International School Bangkok, Singapore International School Thonburi, King Mongkut's International Demonstration School |
+| 2 |  isolate 🥈         | โรงเรียนบ้านบึง"อุตสาหกรรมนุเคราะห์" |
+| 3 |  hommie 🥉          | sakolrajwittayanakul school |
+| 4 | Return to monkey    | Saipanyarangsit School |
+| 5 | Sa du no            | Saint Gabriel College |
+| 6 | บังแป๋ะการช่าง         | โรงเรียนลาซาลกรุงเทพ |
 
 ## Rules
 ### Open Platform League
