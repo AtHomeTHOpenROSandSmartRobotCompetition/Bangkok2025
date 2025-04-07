@@ -1,6 +1,7 @@
 # Thailand Open ROS and Smart Robot Competition 2025
 
 ## Table of content
+- [Rank](#rank)
 - [Rules](#rules)
 - [Important Date](#important-date)
 - [Qualified](#qualifying-material)
@@ -10,6 +11,23 @@
 - [Score](./documents/score.md)
 - [Names](./documents/names.md)
 - [Drinks](./documents/drinks.md)
+
+## Rank
+### University
+| Rank | Team name           | 
+|------|---------------------|
+| 1 |  Cleaner 🥇           | 
+| 2 |  Aokkai Everyday 🥈   | 
+
+### School
+| Rank | Team name           |
+|------|---------------------|
+| 1 |  Banana 🥇          |
+| 2 |  isolate 🥈         |
+| 3 |  hommie 🥉          |
+| 4 | Return to monkey    |
+| 5 | Sa du no            |
+| 6 | บังแป๋ะการช่าง       
 
 ## Rules
 ### Open Platform League
